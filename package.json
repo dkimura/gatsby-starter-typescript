@@ -14,6 +14,7 @@
     "gatsby": "2.19.38",
     "gatsby-link": "2.2.30",
     "gatsby-plugin-react-helmet": "3.1.23",
+    "gatsby-plugin-typegen": "2.0.0",
     "gatsby-plugin-typescript": "2.2.2",
     "react": "16.13.0",
     "react-dom": "16.13.0",
@@ -33,6 +34,9 @@
     "ts-node": "8.6.2",
     "typescript": "3.8.3"
   },
+  "keywords": [
+    "gatsby, typescript"
+  ],
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
       "eslint --fix"
@@ -43,8 +47,5 @@
     "*.graphql": [
       "prettier --write"
     ]
-  },
-  "keywords": [
-    "gatsby, typescript"
-  ]
+  }
 }
