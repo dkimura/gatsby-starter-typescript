@@ -11,11 +11,11 @@
     "start": "gatsby develop"
   },
   "dependencies": {
-    "gatsby": "2.22.1",
-    "gatsby-link": "2.4.2",
-    "gatsby-plugin-react-helmet": "3.3.1",
+    "gatsby": "2.22.3",
+    "gatsby-link": "2.4.3",
+    "gatsby-plugin-react-helmet": "3.3.2",
     "gatsby-plugin-typegen": "2.1.0",
-    "gatsby-plugin-typescript": "2.4.2",
+    "gatsby-plugin-typescript": "2.4.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-helmet": "5.2.1"
