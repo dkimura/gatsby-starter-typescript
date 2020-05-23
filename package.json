@@ -14,7 +14,7 @@
     "gatsby": "2.22.9",
     "gatsby-link": "2.4.3",
     "gatsby-plugin-react-helmet": "3.3.2",
-    "gatsby-plugin-typegen": "2.1.0",
+    "gatsby-plugin-typegen": "2.2.0",
     "gatsby-plugin-typescript": "2.4.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
