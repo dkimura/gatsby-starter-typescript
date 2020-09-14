@@ -5940,10 +5940,10 @@ eslint-config-airbnb@^18.2.0:
     object.assign "^4.1.0"
     object.entries "^1.1.2"
 
-eslint-config-globis@0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-globis/-/eslint-config-globis-0.6.0.tgz#8da2f0adb94dede8cb8f95b6122e53a220fec0dd"
-  integrity sha512-7HAhxZOykTWFvzUJcxLoh52FK8bur7MfNAe71uy1QhlVxGyUoCPwNE+zhtSEWNBoI/tN5KHF2FKDuMrDrBQh8A==
+eslint-config-globis@0.6.1:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-globis/-/eslint-config-globis-0.6.1.tgz#6c0ce3b0ba319967dcd08536fc4ae5214f081daa"
+  integrity sha512-BZp3kvHpdyiQmFq0ED3Rj/IOm+APP+iohK9AoytE1cA9L0Pmo+gUDak4+d8qcu4uK5Ur2gwGwJr89JnALFK2OQ==
   dependencies:
     "@typescript-eslint/eslint-plugin" "4.1.0"
     "@typescript-eslint/parser" "4.1.0"
@@ -5953,7 +5953,7 @@ eslint-config-globis@0.6.0:
     eslint-plugin-jsx-a11y "6.3.1"
     eslint-plugin-prettier "3.1.4"
     eslint-plugin-react "7.20.6"
-    eslint-plugin-react-hooks "4.1.1"
+    eslint-plugin-react-hooks "4.1.2"
 
 eslint-config-prettier@6.11.0:
   version "6.11.0"
@@ -6054,10 +6054,10 @@ eslint-plugin-prettier@3.1.4:
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
-eslint-plugin-react-hooks@4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.1.1.tgz#b37e1ff622b7800cd673901de32db1103d48411d"
-  integrity sha512-vFJNwsf4MLYS0lHYfz9LqxQ+GccYsGGeKPHDxgkIaKbAhNuTLnST+q44pt81MzJZyFU5K4XLF6WiCGv3Yb6tCg==
+eslint-plugin-react-hooks@4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.1.2.tgz#2eb53731d11c95826ef7a7272303eabb5c9a271e"
+  integrity sha512-ykUeqkGyUGgwTtk78C0o8UG2fzwmgJ0qxBGPp2WqRKsTwcLuVf01kTDRAtOsd4u6whX2XOC8749n2vPydP82fg==
 
 eslint-plugin-react-hooks@^1.7.0:
   version "1.7.0"
