@@ -11,7 +11,7 @@
     "start": "gatsby develop"
   },
   "dependencies": {
-    "gatsby": "2.24.62",
+    "gatsby": "2.24.63",
     "gatsby-link": "2.4.14",
     "gatsby-plugin-react-helmet": "3.3.11",
     "gatsby-plugin-typegen": "2.2.1",
