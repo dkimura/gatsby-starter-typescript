@@ -31,7 +31,7 @@
     "lint-staged": "10.5.4",
     "prettier": "1.19.1",
     "prettier-package-json": "2.6.0",
-    "ts-node": "8.10.2",
+    "ts-node": "9.1.1",
     "typescript": "3.9.9"
   },
   "keywords": [
